@@ -24,6 +24,9 @@ body{
     
 
 }
+.link:hover{
+    background-color: rgb(129, 129, 240);
+}
 .link{
     text-decoration: none;
     color: #fff;
@@ -226,6 +229,10 @@ footer p{
 
     .hightlight-intro h1{
         font-size: 30px;
+    }
+    .link i:hover{
+        background-color: aqua;
+        
     }
 
     .highlight-image img{
